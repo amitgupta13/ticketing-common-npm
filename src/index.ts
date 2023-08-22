@@ -1,4 +1,4 @@
-// Re-export modules from errors and middlewares
+// Re-export the modules from errors and middlewares
 
 export * from "./errors/bad-request-error";
 export * from "./errors/custom-error";
